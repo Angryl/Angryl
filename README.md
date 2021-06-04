@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Angryl
+- 👋 Hi, I’m Rudra Pratap Singh
 - 👀 I’m interested in Computers
 - 🌱 I’m currently learning React.js  
 - 💞️ I’m looking to collaborate on any project of Web Devlopment
