@@ -9,6 +9,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ANgryl&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ANgryl&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 <p>
+<br/>
+  You have finally discovered my Github profile!!
+<br>Thanks for stopping by!
+<br>
+<br>
+
 <!---
 Angryl/Angryl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
