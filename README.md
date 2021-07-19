@@ -5,6 +5,10 @@
 - 📫 How to reach me @ [Mail](rudra.2023mca1079@kiet.edu)
 
 ***
+<!--most used language chart
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Agryl&theme=blue-green)
+-->
+
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=ANgryl&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ANgryl&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
@@ -14,6 +18,9 @@
 <br>Thanks for stopping by!
 <br>
 <br>
+***
+  
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Angryl)
 
@@ -21,3 +28,4 @@
 Angryl/Angryl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  
