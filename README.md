@@ -94,10 +94,10 @@
 
 ### ⚙️ &nbsp; GitHub Analytics
 
-<p align="center">
+<p>
 <a href="https://github.com/angryl">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=angryl&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angryl&layout=compact&exclude_lang=java+r&theme=vue-light" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=angryl&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angryl&layout=compact&exclude_lang=java+r&theme=radical" />
 </a>
 </p>
 
