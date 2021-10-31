@@ -21,7 +21,7 @@
 - 👀 I’m interested in **Computers**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for with **Internships**
-- 💬 Ask me about Anything [here](rudrapratap138@gmail.com)! I am happy to help.
+- 💬 Ask me about Anything on [Linkedin](https://www.linkedin.com/in/rudraps/)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
 
