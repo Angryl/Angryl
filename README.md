@@ -1,4 +1,4 @@
-### Hello World, I'm Rudra Pratap SIngh:
+### Hello World, I'm Rudra Pratap Singh:
 
 <h1 align="center">
   <a target="_blank">
